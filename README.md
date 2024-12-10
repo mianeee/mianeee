@@ -1,4 +1,16 @@
-## Hi there! I'm Ngo-Minh-Anh Nguyen (she/her), but you can call me Alicia! 👋
+# Hi there! I'm Ngo-Minh-Anh Nguyen (she/her), but you can call me Alicia! 👋
+
+## About Me 
+
+
+## Education
+
+
+
+## Project
+
+
+
 
 <!--
 **mianeee/mianeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

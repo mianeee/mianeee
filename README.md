@@ -4,17 +4,18 @@
 Hi there! I'm Ngo-Minh-Anh Nguyen (she/her), but you can call me Alicia, a passionate **Full-Stack Developer**. My area of expertise is developing cutting-edge, scalable solutions that combine innovation, teamwork, and technology. I thrive in fast-paced, growth-promoting environments where I am motivated to address real-world problems.
 
 When I'm not coding, you can find me: 
-- Reading novels
-- Listening to music
-- Going to the gym
+- * *Reading novels* *
+- * *Listening to music* *
+- * *Going to the gym* *
 
 ## :mortar_board: Education
 - **Bachelor of Information Technology**
-  - Oulu University of Applied Sciences
-  - Expected Graduation: 2028
+  - * *Oulu University of Applied Sciences* *
+  - * *Expected Graduation: 2028* *
 
 ## :computer: Project
 
+***To be updated***
 
 
 

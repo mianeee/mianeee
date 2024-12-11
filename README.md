@@ -15,7 +15,7 @@ When I'm not coding, you can find me:
 
 ## :computer: Project
 
-***To be updated***
+***UPDATING...***
 
 
 

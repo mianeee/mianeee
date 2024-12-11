@@ -9,9 +9,9 @@ When I'm not coding, you can find me:
 - Going to the gym
 
 ## :mortar_board: Education
-**- Bachelor of Information Technology**
-    - Oulu University of Applied Sciences
-    - Expected Graduation: 2028
+- **Bachelor of Information Technology**
+  - Oulu University of Applied Sciences
+  - Expected Graduation: 2028
 
 ## :computer: Project
 

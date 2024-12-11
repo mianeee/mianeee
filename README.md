@@ -1,6 +1,6 @@
 # Hi there! I'm Ngo-Minh-Anh Nguyen (she/her), but you can call me Alicia! 👋
 
-## About Me 
+## About Me :information_source:
 
 
 ## Education
